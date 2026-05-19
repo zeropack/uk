@@ -96,7 +96,7 @@ export default function Footer() {
                   href="/articles/en13432-not-enough"
                   className="text-cream-200 hover:text-sage-400 transition-colors text-sm"
                 >
-                  Why EN13432 Isn't Enough
+                  Why EN13432 Isn&apos;t Enough
                 </Link>
               </li>
               <li>
@@ -104,7 +104,7 @@ export default function Footer() {
                   href="/articles/buyers-guide"
                   className="text-cream-200 hover:text-sage-400 transition-colors text-sm"
                 >
-                  Buyer's Guide
+                  Buyer&apos;s Guide
                 </Link>
               </li>
             </ul>
